@@ -30,7 +30,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSppkoKsaYMuIoNLDH7O8ePOacLPG1mKXtEng&usqp=CAU"
+              src="/profile.png"
               alt="Rushabh Modi"
               width="192"
               height="192"
@@ -90,7 +90,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="/Rushabh_resume.pdf"
+          href="/Rushabh_Modi.pdf"
           download
         >
           Download CV{' '}
